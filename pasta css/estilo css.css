@@ -1,0 +1,12 @@
+
+h1 {color: #053243db; font-size: 60px;  text-transform: uppercase; } 
+
+body {  width:50%;  margin:auto; font-family: "DotGothic16";  line-height: 1.5;  background-image: url("img/background.jpeg" ); background-size: 350px; color: cornsilk; }
+
+main {background: #5fa09df2;   padding: 5px 40px;  margin-top: 10px; border-radius: 20px;}
+
+.logan, .titulo, .texto {text-align: center; margin: 0;}
+
+.tabela{ margin: 30px 0;  text-align: center;  width: 100%;}
+
+.tabela table {background: red; border-radius: 10px;  padding: 10px; margin: 0 auto;}
